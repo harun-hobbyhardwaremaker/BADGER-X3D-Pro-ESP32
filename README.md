@@ -12,6 +12,11 @@ But there was zero working video on the internet. I had to solve it first.
 After 1 month, I did. At 04:17 AM, servos moved.
 ⚡ **THE LIGHTNING MOMENT:**
 While watching LEDFACIL's video, I saw he connected the USB port directly to ESP32-WROOM pins 16 & 17. That was it. No shield, just 2 pins. That night at 04:17 AM, my servos moved for the first time.
+### Wiring
+- D+ -> GPIO16
+- D- -> GPIO17
+- 5V -> 5V
+- GND -> GND
 
 > ⚠️ **Note:** This project took 1 MONTH of day-and-night reverse-engineering and is actively being developed.
 
