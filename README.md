@@ -3,7 +3,7 @@ BADGER DEEP LAB #001 - Logitech Extreme 3D Pro on ESP32-WROOM without USB Host c
 # BADGER-X3D-Pro-ESP32
 ### BADGER DEEP LAB #001
 
-[![Demo Video](https://img.youtube.com/vi/ShJ--SvNNCg/0.jpg)](https://youtu.be/ShJ--SvNNCg)
+[![Demo Video](https://www.youtube.com/watch?v=-eZi4rttfmk&t=25s)
 **⬆️ Click to Watch Demo - 1 Month of Work**
 I'm not a software pro. I'm a tower crane operator, worked both domestic and international.
 I don't want to do that job anymore. I'm focusing all my field experience on this.
