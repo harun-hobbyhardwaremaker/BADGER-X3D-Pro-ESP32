@@ -1,4 +1,6 @@
 # Logitech Extreme 3D Pro on ESP32-WROOM
+<img width="1190" height="896" alt="esp32 work" src="https://github.com/user-attachments/assets/ed840ff9-a953-4a31-9c7d-7084b3b98093" />
+
 
 **Badger Deep Lab #001**: a Logitech Extreme 3D Pro joystick read by a plain ESP32-WROOM
 with a pure software USB host. No USB host chip, no shield.
@@ -44,12 +46,16 @@ Test setup: all LED cathodes share one 1 kΩ resistor to GND.
 ## Thank you chain
 
 **Code I built on**
-
+<img width="460" height="460" alt="oleg mazurov" src="https://github.com/user-attachments/assets/4a1e6b38-4778-436b-9d1d-5d005ef5f6b0" />
 - **Oleg Mazurov** ([felis](https://github.com/felis)): documented the Logitech Extreme 3D Pro
   report layout in 2012 and wrote the `le3dp` example for USB Host Shield 2.0.
+  
   [Article](https://chome.nerpa.tech/mcu/using-logitech-extreme-3d-pro-joystick-with-arduino-hid-library/)
+  <img width="600" height="745" alt="dmitry samsonov1" src="https://github.com/user-attachments/assets/6eb6710f-cbf8-4fa7-a1d0-4c7f9dce3dd7" />
 - **Dmitry Samsonov** ([sdima1357](https://github.com/sdima1357/esp32_usb_soft_host)):
   pure-software USB host on ESP32 GPIO pins
+  
+  <img width="1437" height="716" alt="tobozo kalp1" src="https://github.com/user-attachments/assets/9eed25dc-5df7-45ef-942f-048b092b0c06" />
 - **tobozo** ([ESP32-USB-Soft-Host](https://github.com/tobozo/ESP32-USB-Soft-Host)):
   Arduino wrapper of Dmitry's work
 
@@ -66,6 +72,7 @@ Developed with AI assistance (Qwen); hardware testing and validation by me.
 AGPL-3.0, see [LICENSE](LICENSE). This project is not affiliated with or endorsed by Logitech.
 
 ## Author
+This is not my personal victory. This is the result of the brilliant light they shed on the open-source world. I just followed their path and closed the chain.
 
 Harun Er (HobbyHardwareMaker) / RAMS-FIRE Labs, Türkiye
 Website: https://rams-fire.com | YouTube: https://www.youtube.com/@badger_deep_lab
