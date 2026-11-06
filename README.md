@@ -47,7 +47,7 @@ Test setup: all LED cathodes share one 1 kΩ resistor to GND.
 
 **Code I built on**
 <img width="460" height="460" alt="oleg mazurov" src="https://github.com/user-attachments/assets/4a1e6b38-4778-436b-9d1d-5d005ef5f6b0" />
-- **Oleg Mazurov** ([felis](https://github.com/felis)): documented the Logitech Extreme 3D Pro
+- **Oleg Mazurov** ([@felis](https://github.com/felis)): documented the Logitech Extreme 3D Pro
   report layout in 2012 and wrote the `le3dp` example for USB Host Shield 2.0.
   
   [Article](https://chome.nerpa.tech/mcu/using-logitech-extreme-3d-pro-joystick-with-arduino-hid-library/)
